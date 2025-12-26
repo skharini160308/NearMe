@@ -113,6 +113,13 @@ tarun.html
 ```
 ## OUTPUT
 <img width="1904" height="909" alt="Screenshot 2025-12-26 112143" src="https://github.com/user-attachments/assets/e24270e7-9fb4-410c-ae37-6d6c6b102f28" />
+<img width="1895" height="908" alt="Screenshot 2025-12-26 185402" src="https://github.com/user-attachments/assets/7488eb40-bb88-4cd2-ad27-67c170fcb684" />
+<img width="1896" height="896" alt="Screenshot 2025-12-26 185329" src="https://github.com/user-attachments/assets/f5b79389-40ea-421f-8901-1aa990600471" />
+<img width="1904" height="900" alt="Screenshot 2025-12-26 185243" src="https://github.com/user-attachments/assets/1c2e23af-b09f-4af9-9c54-e5b84d7042b0" />
+<img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/603559c2-247a-4a3e-b734-a804484d0fa0" />
+<img width="1915" height="906" alt="Screenshot 2025-12-26 185210" src="https://github.com/user-attachments/assets/a6a8e61b-3930-40e6-843c-fae4f87e18a3" />
+
+
 
 
 
