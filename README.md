@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 {/
 im/age.html
 <html>
@@ -109,7 +110,7 @@ tarun.html
      </body>
 </html>
        }
-
+```
 ## OUTPUT
 
 <img width="1904" height="909" alt="Screenshot 2025-12-26 112143" src="https://github.com/user-attachments/assets/8f389efb-52f3-4989-a8db-2b8a8b20c7d9" />
