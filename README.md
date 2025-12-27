@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 23/12/2025
+## Date: 17/12/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 {/
 im/age.html
 <html>
@@ -109,6 +110,7 @@ tarun.html
      </body>
 </html>
        }
+```
 
 ## OUTPUT
 
